@@ -2,9 +2,6 @@
 <h3 align="center">FullStack Developer and Software Engineer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brun0-z&label=Profile%20views&color=0e75b6&style=flat" alt="brun0-z" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brun0-z" alt="brun0-z" /></a> </p>
-
 - 🔭 I’m currently working on **Majo AutoServicios**
 
 - 🌱 I’m currently learning **React, Django and Docker**
@@ -26,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brun0-z&show_icons=true&locale=en&layout=compact" alt="brun0-z" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brun0-z&show_icons=true&locale=en" alt="brun0-z" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brun0-z&" alt="brun0-z" /></p>
